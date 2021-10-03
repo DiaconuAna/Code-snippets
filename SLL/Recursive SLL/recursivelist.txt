@@ -1,0 +1,1 @@
+  A couple of methods for representing a linked list recursively
